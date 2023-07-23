@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Mauricio!
 
-I'm a Fullstack developer who is always learning. I have studied Hispanic Literature and Linguistics, Electric and Electronics Engineering at UNAM, and I specialized in Artificial Intelligence by myself. I love developing web and mobile apps.
-
 <img align='right' src='https://github.com/MauricioDiazs07/MauricioDiazs07/blob/main/assets/presentation.gif' width='200'>
+
+I'm a Fullstack developer who is always learning. I have studied Hispanic Literature and Linguistics, Electric and Electronics Engineering at UNAM, and I specialized in Artificial Intelligence by myself. I love developing web and mobile apps.
 
 - 📖 Currently, I'm working at [**Brita Inteligencia Artificial**](https://brita.mx/)
 
